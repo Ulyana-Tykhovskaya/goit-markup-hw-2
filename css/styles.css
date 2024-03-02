@@ -66,6 +66,10 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
 }
+.hero-buy-btn:hover
+.hero-buy-btn:focus {
+    cursor:pointer;
+}
 /*========strategy=========*/
 .strategy {
 }
