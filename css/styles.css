@@ -92,7 +92,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 /*======Team======*/
-.Team {
+.team {
     background-color: #f4f4fd;
 }
 .team-title {
@@ -118,6 +118,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
+}
+.liy {
+   background-color: #ffffff;
 }
 .portfolio {
     background-color: #f4f4fd;
